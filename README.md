@@ -1,103 +1,109 @@
-<h1 align="center">Olá, eu sou o Danilo Matheus 👋</h1>
-
-<p align="center">
-  Profissional de TI com foco em <strong>RPA, automação de processos e desenvolvimento de soluções</strong>.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:SEUEMAIL@EMAIL.COM">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Danilo4009" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-Sou profissional da área de Tecnologia da Informação, com experiência em **RPA (Robotic Process Automation)**, desenvolvimento em **Python**, automações com **Power Automate**, consultas em **SQL** e criação de soluções voltadas para ganho de produtividade e redução de tarefas manuais.
-
-Atualmente, busco evoluir cada vez mais na área de tecnologia, fortalecendo minhas habilidades técnicas, visão analítica e capacidade de liderança, com foco no crescimento profissional e em futuros desafios de gestão em TI.
-
----
-
-## 💼 Áreas de atuação
-
-- Automação de processos com RPA
-- Desenvolvimento de bots e rotinas em Python
-- Power Automate Desktop
-- Integração de sistemas e otimização de processos
-- Manipulação e tratamento de dados
-- Consultas e rotinas com SQL
-- Desenvolvimento front-end com React
-- Suporte a soluções corporativas
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+# Olá, eu sou Danilo Matheus 👋
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Desenvolvedor+RPA+%7C+Python+%7C+Automa%C3%A7%C3%A3o;Power+Automate+%7C+SQL+%7C+React;Transformando+processos+manuais+em+solu%C3%A7%C3%B5es+inteligentes" alt="Typing SVG" />
+</a>
+
+</div>
+
+<img width="100%" src="./src/header.gif" alt="header"/>
+
+---
+
+## 👨‍💻 Sobre mim
+
+<img align="right" alt="coding" height="190px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRjMnlmaGZzcjlwOW5leTEyNXptOGFodnRhbzF0OWpubHVlNm9vZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp">
+
+Sou profissional de **Tecnologia da Informação** com foco em **RPA, automação de processos e desenvolvimento de soluções inteligentes**.
+
+Atuo com automações em **Python**, **Power Automate**, **SQL** e outras ferramentas voltadas para otimização de tarefas manuais, aumento de produtividade e melhoria contínua de processos.
+
+Atualmente, sigo evoluindo em desenvolvimento, automação e visão de negócio, com objetivo de crescer cada vez mais na área de TI.
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/danilo-matheus-lopes-de-oliveira-74552423b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:danilo4009@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Danilo4009" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 📌 Atualmente estudando e evoluindo em
+## 🚀 Tecnologias e ferramentas
 
-- Boas práticas de desenvolvimento em Python
-- RPA aplicada a processos corporativos
+<div align="left">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+---
+
+## 📌 Foco atual
+
+- Automação de processos com RPA
+- Desenvolvimento de bots em Python
 - Integração entre sistemas
-- Inglês para tecnologia
-- Estruturação de projetos mais escaláveis
+- Manipulação de dados com SQL
+- Soluções com Power Automate
 - Desenvolvimento web com React e Node.js
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo4009&show_icons=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=30363d&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo4009&layout=compact&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF&border_color=30363d" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo4009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo4009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF" />
 </div>
 
 ---
 
-## 🔥 Sequência de contribuições
+## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Danilo4009&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=30363D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Danilo4009&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </div>
 
 ---
 
-## 🎯 Objetivo profissional
+## 🏆 GitHub Trophies
 
-Meu objetivo é crescer na área de tecnologia, especialmente em **automação, RPA e desenvolvimento de soluções inteligentes**, contribuindo com eficiência, inovação e melhoria contínua dos processos.
-
----
-
-## 📫 Contato
-
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/)
-- E-mail: **SEUEMAIL@EMAIL.COM**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danilo4009&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+</div>
 
 ---
 
-<p align="center">
-  Obrigado por visitar meu perfil! 🚀
-</p>
+## 🐍 Contribuições animadas
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danilo4009/Danilo4009/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danilo4009/Danilo4009/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Danilo4009/Danilo4009/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Construir soluções que gerem impacto real no dia a dia das empresas por meio de **automação, tecnologia e inovação**.

@@ -67,39 +67,10 @@ Atualmente, sigo evoluindo em desenvolvimento, automação e visão de negócio,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo4009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo4009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF" />
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Danilo4009&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danilo4009&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
-</div>
-
----
-
-## 🐍 Contribuições animadas
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danilo4009/Danilo4009/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danilo4009/Danilo4009/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Danilo4009/Danilo4009/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
